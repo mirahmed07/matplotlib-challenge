@@ -2,10 +2,10 @@
 Matplotlib challenge for Rutgers Data Science Bootcamp
 
 
-####Pymaceuticals
+#### Pymaceuticals
 
 
-###Summary of study results
+### Summary of study results
 
 1. A good number of observations were captured per drug regimen which gives us a sound sample size for analysis.
 ![BarChart](Images/bar_chart.png)
