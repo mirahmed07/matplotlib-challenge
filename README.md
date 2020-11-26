@@ -2,7 +2,7 @@
 Matplotlib challenge for Rutgers Data Science Bootcamp
 
 
-#### Pymaceuticals
+## Pymaceuticals
 
 
 ### Summary of study results
